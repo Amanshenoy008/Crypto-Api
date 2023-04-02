@@ -1,5 +1,7 @@
 ### QuadB nodejs project
 
+Couldnt finish the frontend but finished making the backend api.
+
 To run this localsystem:
 
 ```
