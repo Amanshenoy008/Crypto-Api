@@ -17,7 +17,7 @@ da.deleteMany({})
   })
   .catch((err) => {
     console.log(err);
-});
+  });
 
 run();
 app.use(express.static(path.join(__dirname, "static")));

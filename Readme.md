@@ -2,7 +2,7 @@
 
 Couldnt finish the frontend but finished making the backend api.
 
-To run this localsystem:
+To run this on localsystem:
 
 ```
 cd backend

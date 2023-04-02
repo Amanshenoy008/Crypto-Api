@@ -17,7 +17,7 @@ const run = async () => {
 
       da.insertMany(arr)
         .then((docs) => {
-          console.log("document added");
+          console.log(docs + "document added");
         })
         .catch((error) => console.log(error));
     })
